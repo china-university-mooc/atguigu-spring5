@@ -8,5 +8,4 @@
     </bean>
 
     <bean id="dept" class="com.itutry.spring5.demo5.Dept"/>
-    <bean id="dept1" class="com.itutry.spring5.demo5.Dept"/>
 </beans>
