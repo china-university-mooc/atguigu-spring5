@@ -14,13 +14,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e384fa7a-5aad-4892-bd7c-37f5b510131d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring5-demo1/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo1/src/bean6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo6/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo1/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/spring-aop-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/spring-beans-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/spring-context-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/spring-core-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/lib/spring-expression-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/spring5-demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/dao/BarUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/dao/FooUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo2/src/com/itutry/spring5/test/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring5-demo1/bean5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring5-demo1/bean5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5-demo1/spring5-demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/spring5-demo1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +41,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,11 +67,12 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring5-demo1/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring5-demo2/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,35 +87,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring5-demo2/lib" />
+      <recent name="$PROJECT_DIR$/spring5-demo2" />
       <recent name="$PROJECT_DIR$/spring5-demo1/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest.test1 (4)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyTest.test1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring5-demo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.itutry.spring5.demo3" />
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.demo3.MyTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,6 +152,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itutry.spring5.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itutry.spring5.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.test.MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Spring5Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring5-demo1" />
       <extension name="coverage">
@@ -175,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.test1" />
         <item itemvalue="JUnit.MyTest.test1 (4)" />
         <item itemvalue="JUnit.MyTest.test1 (3)" />
         <item itemvalue="JUnit.MyTest.test1 (2)" />
         <item itemvalue="JUnit.Spring5Test.test2" />
-        <item itemvalue="JUnit.MyTest.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +203,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599362141038</updated>
       <workItem from="1599362142168" duration="4765000" />
-      <workItem from="1600082712911" duration="13151000" />
+      <workItem from="1600082712911" duration="14534000" />
+      <workItem from="1600329832680" duration="5531000" />
     </task>
     <servers />
   </component>
@@ -209,43 +221,53 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="207" y="42" key="#Project_Structure" timestamp="1600100346658">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="207" y="42" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1600100346658" />
-    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1600097525145">
+    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1600356613610">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1600097525145" />
-    <state width="1396" height="348" key="GridCell.Tab.0.bottom" timestamp="1600100161519">
+    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1600356613610" />
+    <state x="457" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600330591882">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="348" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600100161519" />
-    <state width="1396" height="348" key="GridCell.Tab.0.center" timestamp="1600100161518">
+    <state x="457" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1600330591882" />
+    <state width="1398" height="348" key="GridCell.Tab.0.bottom" timestamp="1600356675665">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="348" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600100161518" />
-    <state width="1396" height="348" key="GridCell.Tab.0.left" timestamp="1600100161518">
+    <state width="1396" height="348" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082359" />
+    <state width="1398" height="348" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600356675665" />
+    <state width="1398" height="348" key="GridCell.Tab.0.center" timestamp="1600356675664">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="348" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600100161518" />
-    <state width="1396" height="348" key="GridCell.Tab.0.right" timestamp="1600100161519">
+    <state width="1396" height="348" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082358" />
+    <state width="1398" height="348" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600356675664" />
+    <state width="1398" height="348" key="GridCell.Tab.0.left" timestamp="1600356675663">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="348" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600100161519" />
+    <state width="1396" height="348" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082357" />
+    <state width="1398" height="348" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600356675663" />
+    <state width="1398" height="348" key="GridCell.Tab.0.right" timestamp="1600356675664">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="348" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082358" />
+    <state width="1398" height="348" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600356675664" />
     <state x="207" y="42" key="SettingsEditor" timestamp="1600098466257">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="207" y="42" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600098466257" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1600100157007">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1600353902889">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600100157007" />
-    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599363517210">
+    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600353902889" />
+    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600333050070">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600333050070" />
     <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1599363517210" />
     <state x="517" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600084583863">
       <screen x="0" y="23" width="1440" height="877" />
@@ -259,10 +281,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="457" y="214" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1600083756431" />
-    <state x="87" y="80" key="new project wizard" timestamp="1599362207884">
+    <state x="174" y="95" key="new project wizard" timestamp="1600330551329">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="87" y="80" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1599362207884" />
+    <state x="174" y="95" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1600330551329" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1600082964319">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
