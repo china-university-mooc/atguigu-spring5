@@ -1,4 +1,4 @@
-package com.itutry.spring5.demo1;
+package com.itutry.spring5;
 
 import org.junit.Test;
 

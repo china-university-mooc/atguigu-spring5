@@ -1,4 +1,4 @@
-package com.itutry.spring5.demo1;
+package com.itutry.spring5;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

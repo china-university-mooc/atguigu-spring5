@@ -14,23 +14,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e384fa7a-5aad-4892-bd7c-37f5b510131d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/lib/spring-aspects-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/BarAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/FooAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo2/UserDaoAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo3/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo3/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo3/UserDaoAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/druid-1.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-aop-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-aspects-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-beans-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-context-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-core-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-expression-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-jdbc-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-orm-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/lib/spring-tx-5.2.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/spring5-demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo4/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5-demo3/spring5-demo3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo3/spring5-demo3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/bean0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/bean0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/UserDaoImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/UserDaoImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/demo1/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo1/src/com/itutry/spring5/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo1/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo1/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo1/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/UserDaoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +61,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -63,6 +83,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -73,7 +94,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring5-demo4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,58 +108,21 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring5-demo4/src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itutry.spring5.demo2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring5-demo4" />
+      <recent name="$PROJECT_DIR$/spring5-demo4/lib" />
       <recent name="$PROJECT_DIR$/spring5-demo3/src/com/itutry/spring5/demo3" />
       <recent name="$PROJECT_DIR$/spring5-demo3/lib" />
       <recent name="$PROJECT_DIR$/spring5-demo3" />
-      <recent name="$PROJECT_DIR$/spring5-demo2/lib" />
-      <recent name="$PROJECT_DIR$/spring5-demo2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyTest (2)">
-    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.demo2.MyTest" />
-      <module name="spring5-demo3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.demo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.demo3.MyTest" />
-      <module name="spring5-demo3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.demo1.MyTest" />
-      <module name="spring5-demo3" />
-      <option name="VM_PARAMETERS" value="-Dsun.misc.ProxyGenerator.saveGeneratedFiles=true" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MyTest.test6">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -150,52 +134,100 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring5-demo1" />
+    <configuration name="MyTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.demo6.*" />
+          <option name="PATTERN" value="com.itutry.spring5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.itutry.spring5.demo6" />
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.demo6.MyTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.itutry.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.MyTest" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring5-demo2" />
+    <configuration name="MyTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itutry.spring5.test.*" />
+          <option name="PATTERN" value="com.itutry.spring5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.itutry.spring5.test" />
-      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.test.MyTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.itutry.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.MyTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itutry.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itutry.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.MyTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itutry.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itutry.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.MyTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5-demo4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itutry.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itutry.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.itutry.spring5.MyTest" />
+      <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyTest" />
-      <item itemvalue="JUnit.MyTest.test1" />
-      <item itemvalue="JUnit.MyTest.test1 (4)" />
-      <item itemvalue="Application.MyTest (1)" />
-      <item itemvalue="Application.MyTest (2)" />
+      <item itemvalue="JUnit.MyTest.test5" />
+      <item itemvalue="JUnit.MyTest.test6" />
+      <item itemvalue="JUnit.MyTest.test7" />
+      <item itemvalue="JUnit.MyTest.test8" />
+      <item itemvalue="JUnit.MyTest.test9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyTest (2)" />
-        <item itemvalue="Application.MyTest (1)" />
-        <item itemvalue="Application.MyTest" />
-        <item itemvalue="JUnit.MyTest.test1" />
-        <item itemvalue="JUnit.MyTest.test1 (4)" />
+        <item itemvalue="JUnit.MyTest.test6" />
+        <item itemvalue="JUnit.MyTest.test9" />
+        <item itemvalue="JUnit.MyTest.test8" />
+        <item itemvalue="JUnit.MyTest.test7" />
+        <item itemvalue="JUnit.MyTest.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +243,7 @@
       <workItem from="1600082712911" duration="14534000" />
       <workItem from="1600329832680" duration="6103000" />
       <workItem from="1600392385656" duration="730000" />
-      <workItem from="1600583213964" duration="5969000" />
+      <workItem from="1600583213964" duration="11452000" />
     </task>
     <servers />
   </component>
@@ -235,38 +267,46 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="207" y="42" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1600100346658" />
-    <state x="183" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600587289854">
+    <state x="246" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600616395348">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="183" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1600587289854" />
-    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1600586950637">
+    <state x="246" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1600616395348" />
+    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1600618478544">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1600586950637" />
+    <state x="532" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1600618478544" />
+    <state x="489" y="332" width="462" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600616617335">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="489" y="332" width="462" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1600616617335" />
+    <state x="439" y="162" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600616632498">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="439" y="162" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1600616632498" />
     <state x="457" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600330591882">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="457" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1600330591882" />
-    <state width="1396" height="347" key="GridCell.Tab.0.bottom" timestamp="1600592999351">
+    <state width="1396" height="282" key="GridCell.Tab.0.bottom" timestamp="1600618817799">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="348" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082359" />
-    <state width="1396" height="347" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600592999351" />
-    <state width="1396" height="347" key="GridCell.Tab.0.center" timestamp="1600592999350">
+    <state width="1396" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600618817799" />
+    <state width="1396" height="282" key="GridCell.Tab.0.center" timestamp="1600618817798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="348" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082358" />
-    <state width="1396" height="347" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600592999350" />
-    <state width="1396" height="347" key="GridCell.Tab.0.left" timestamp="1600592999350">
+    <state width="1396" height="282" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600618817798" />
+    <state width="1396" height="282" key="GridCell.Tab.0.left" timestamp="1600618817798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="348" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082357" />
-    <state width="1396" height="347" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600592999350" />
-    <state width="1396" height="347" key="GridCell.Tab.0.right" timestamp="1600592999351">
+    <state width="1396" height="282" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600618817798" />
+    <state width="1396" height="282" key="GridCell.Tab.0.right" timestamp="1600618817799">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="348" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600172082358" />
-    <state width="1396" height="347" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600592999351" />
+    <state width="1396" height="282" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600618817799" />
     <state width="1396" height="276" key="GridCell.Tab.1.bottom" timestamp="1600587175947">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -287,15 +327,19 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="207" y="42" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600098466257" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1600353902889">
+    <state x="449" y="199" width="540" height="524" key="StructurePopup" timestamp="1600617473200">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600353902889" />
-    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600333050070">
+    <state x="449" y="199" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1600617473200" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1600619244465">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600619244465" />
+    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600617175072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600333050070" />
-    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1599363517210" />
+    <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1600617175072" />
     <state x="517" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600084583863">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -308,17 +352,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="457" y="214" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1600083756431" />
-    <state x="174" y="95" key="new project wizard" timestamp="1600585665366">
+    <state x="174" y="78" key="new project wizard" timestamp="1600611408621">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="174" y="95" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1600585665366" />
+    <state x="174" y="78" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1600611408621" />
     <state x="495" y="231" key="refactoring.ChangeSignatureDialog" timestamp="1600586965246">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="495" y="231" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1600586965245" />
-    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1600589979265">
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1600617817010">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1600589979265" />
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1600617817010" />
   </component>
 </project>
