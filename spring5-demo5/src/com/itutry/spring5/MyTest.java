@@ -9,7 +9,8 @@ public class MyTest {
 
     @Test
     public void test() {
-        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("bean1.xml");
+//        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("bean1.xml");
+        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("bean2.xml");
         AccountService accountService = applicationContext.getBean(AccountService.class);
 
         accountService.transferBalance(1, 2, 100);

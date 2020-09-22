@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/aop  http://www.springframework.org/schema/aop/spring-aop.xsd
+                           http://www.springframework.org/schema/tx  http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+    <context:component-scan base-package="com.itutry.spring5"/>
+
+    <!--创建事务管理器-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!--配置通知-->
+    <tx:advice id="txAdvice">
+        <!--配置事务参数-->
+        <tx:attributes>
+            <!--指定哪种规则的方法上面添加事务-->
+            <tx:method name="transferBalance" propagation="REQUIRED"/>
+        </tx:attributes>
+    </tx:advice>
+
+    <!--配置切入点和切面-->
+    <aop:config>
+        <aop:pointcut id="pointcut" expression="execution(* com.itutry.spring5.service.AccountService.*(..))"/>
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="pointcut"/>
+    </aop:config>
+</beans>
