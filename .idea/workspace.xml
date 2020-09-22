@@ -14,31 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e384fa7a-5aad-4892-bd7c-37f5b510131d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-aop-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-aspects-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-beans-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-context-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-core-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-expression-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-jdbc-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-orm-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/lib/spring-tx-5.2.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/spring5-demo5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/com/itutry/spring5/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/com/itutry/spring5/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/com/itutry/spring5/dao/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/com/itutry/spring5/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo4/src/com/itutry/spring5/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-demo5/src/com/itutry/spring5/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5-demo5/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-demo5/src/bean1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +211,7 @@
       <workItem from="1600329832680" duration="6103000" />
       <workItem from="1600392385656" duration="730000" />
       <workItem from="1600583213964" duration="13320000" />
-      <workItem from="1600779071130" duration="1012000" />
+      <workItem from="1600779071130" duration="1474000" />
     </task>
     <servers />
   </component>
@@ -278,26 +255,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="457" y="214" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1600330591882" />
-    <state width="1396" height="282" key="GridCell.Tab.0.bottom" timestamp="1600751918736">
+    <state width="956" height="222" key="GridCell.Tab.0.bottom" timestamp="1600780392742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600751918736" />
-    <state width="1396" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600620484967" />
-    <state width="1396" height="282" key="GridCell.Tab.0.center" timestamp="1600751918735">
+    <state width="956" height="222" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600780392742" />
+    <state width="956" height="222" key="GridCell.Tab.0.center" timestamp="1600780392741">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="282" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600751918735" />
-    <state width="1396" height="282" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600620484967" />
-    <state width="1396" height="282" key="GridCell.Tab.0.left" timestamp="1600751918735">
+    <state width="956" height="222" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600780392741" />
+    <state width="956" height="222" key="GridCell.Tab.0.left" timestamp="1600780392741">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="282" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600751918735" />
-    <state width="1396" height="282" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600620484966" />
-    <state width="1396" height="282" key="GridCell.Tab.0.right" timestamp="1600751918736">
+    <state width="956" height="222" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600780392741" />
+    <state width="956" height="222" key="GridCell.Tab.0.right" timestamp="1600780392742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1396" height="282" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1057@0.23.1440.877" timestamp="1600751918736" />
-    <state width="1396" height="282" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600620484967" />
+    <state width="956" height="222" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600780392742" />
     <state width="1396" height="276" key="GridCell.Tab.1.bottom" timestamp="1600751918725">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -326,10 +303,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="449" y="199" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1600617473200" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1600619244465">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1600780591519">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600619244465" />
+    <state width="498" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1600780591519" />
     <state x="416" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600780223758">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
