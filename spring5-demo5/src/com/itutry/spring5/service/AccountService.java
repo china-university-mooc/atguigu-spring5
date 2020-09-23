@@ -16,7 +16,7 @@ public class AccountService {
     @Transactional
     public void transferBalance(int from, int to, double account) {
         accountDao.reduceBalance(from, account);
-//        int i = 10 / 0;
+        int i = 10 / 0;
         accountDao.addBalance(to, account);
     }
 }
