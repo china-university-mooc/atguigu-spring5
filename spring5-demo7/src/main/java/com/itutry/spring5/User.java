@@ -1,4 +1,4 @@
-package com.itutry.spring5.demo4;
+package com.itutry.spring5;
 
 public class User {
 
